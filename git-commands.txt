@@ -1,0 +1,8 @@
+git branch -a
+# lister alle branches pt
+
+git fetch origin
+# downloader alle branches på github
+
+git checkout NAME_OF_BRANCH
+# skifter lokalt branch til NAME_OF_BRANCH
